@@ -1,0 +1,141 @@
+.text-color {
+  color: #dc0b32;
+}
+
+.icon-color {
+  color: #dc0b32;
+}
+
+.bg-color {
+  background-color: #dc0b32;
+}
+
+.bg-color-dark {
+  background-color: #b14706;
+}
+
+.bg-color-light {
+  background-color: #fff;
+}
+
+a.link-color,
+i.link-color {
+  color: #dc0b32;
+}
+
+a.link-color:hover,
+a.link-color:active,
+a.link-color:focus,
+i.link-color:hover,
+i.link-color:active,
+i.link-color:focus {
+  color: #b14706;
+}
+
+.btn-color,
+.inverse a.btn-color {
+  background-color: #dc0b32;
+}
+
+.btn-color:hover,
+.btn-color:active,
+.btn-color:focus {
+  background-color: #b14706 !important;
+}
+
+.btn-border-color,
+a.btn-border-color {
+  color: #dc0b32 !important;
+  border-color: #dc0b32;
+}
+
+.btn-border-color:hover,
+.btn-border-color:active,
+.btn-border-color:focus {
+  color: #b14706 !important;
+  border-color: #b14706;
+}
+
+.input-group .btn {
+  color: #dc0b32 !important;
+}
+
+.form-control:focus,
+.form-control:focus + .input-group-btn .btn {
+  border-color: #dc0b32;
+}
+
+.error .form-control,
+.error .btn {
+  border-color: #dc0b32 !important;
+}
+
+.message {
+  color: #dc0b32;
+}
+
+.message-icon {
+  border-color: #dc0b32;
+}
+
+.panel-color {
+  border-color: #dc0b32;
+}
+
+.panel-color > .panel-heading {
+  background-color: #dc0b32;
+}
+
+.panel-color.active > .panel-heading {
+  color: #dc0b32;
+}
+
+.tp-bannertimer {
+  background-color: #dc0b32;
+}
+
+.dark-version .rs-dot .tp-bullet.selected,
+.dark-version .rs-dot .tp-bullet:hover {
+  background-color: #dc0b32;
+}
+
+.dark-version .owl-theme .owl-dots .owl-dot.active span,
+.dark-version .owl-theme .owl-dots .owl-dot:hover span {
+  background-color: #dc0b32;
+}
+
+.logo-color span {
+  background-image: url("../../images/ji-logo-1.png");
+}
+
+.ball-pulse-color > div {
+  background-color: #dc0b32;
+}
+
+.navbar-icon span {
+  background-color: #dc0b32;
+}
+
+.price-marker {
+  background-color: #dc0b32;
+}
+
+.speech-bubble-color {
+  background-color: #dc0b32;
+}
+
+.speech-bubble-color:after {
+  border-color: #dc0b32 transparent transparent;
+}
+
+.speech-bubble-light {
+  background-color: #f7e4d9;
+}
+
+.speech-bubble-light:after {
+  border-color: #f7e4d9 transparent transparent;
+}
+
+.circles-valueStroke {
+  stroke: #dc0b32;
+}
