@@ -1,0 +1,50 @@
+.nav-btn-cs {
+  color: #444;
+  background-color: rgba(40, 96, 144, 0);
+  border-color: #204d74;
+  display: inline-block;
+  margin: 5px;
+  font-size: 14px;
+  font-weight: 400;
+  text-align: center;
+  white-space: nowrap;
+  vertical-align: middle;
+  cursor: pointer;
+  background-image: none;
+  border: none;
+  transition: background .3s ease-in-out;
+  padding: 6px 12px;
+  font-family: inherit;
+  overflow: visible;
+}
+
+@media only screen and (max-width: 991px) {
+  .nav-btn-cs {
+    padding: 6px 0px;
+    margin-left: 0px;
+  }
+}
+
+.dropdown ul li a {
+  margin: 5px 0px;
+}
+
+.julio-wiki {
+  padding-top: 50px;
+  padding-bottom: 150px;
+}
+
+.julio-wiki li {
+  margin-left: 5px;
+  margin-bottom: 10px;
+}
+
+.julio-wiki img {
+  max-height: 280px;
+}
+
+@media only screen and (min-width: 1200px) {
+  .julio-wiki img {
+    max-height: 200px;
+  }
+}
