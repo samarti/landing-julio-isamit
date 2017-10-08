@@ -74,3 +74,16 @@ div#slider figure {
   animation: 30s slidy infinite; 
 }
 
+p {
+  text-align: justify;
+  text-justify: inter-word;
+}
+
+.red {
+  color: #dc0b32;
+  font-weight: 600;
+}
+
+.sign-image {
+  max-width: 200px;
+}
