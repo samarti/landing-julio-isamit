@@ -39,12 +39,12 @@
   margin-bottom: 10px;
 }
 
-.julio-wiki img {
+.julio-wiki .personal-img {
   max-height: 280px;
 }
 
 @media only screen and (min-width: 1200px) {
-  .julio-wiki img {
+  .julio-wiki .personal-img {
     max-height: 200px;
   }
 }
@@ -86,4 +86,9 @@ p {
 
 .sign-image {
   max-width: 200px;
+}
+
+.participa-header {
+  font-weight: 400;
+  font-size: large;
 }

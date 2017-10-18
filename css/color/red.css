@@ -11,7 +11,7 @@
 }
 
 .bg-color-dark {
-  background-color: #b14706;
+  background-color: #861205;
 }
 
 .bg-color-light {
@@ -29,7 +29,7 @@ a.link-color:focus,
 i.link-color:hover,
 i.link-color:active,
 i.link-color:focus {
-  color: #b14706;
+  color: #861205;
 }
 
 .btn-color,
@@ -40,7 +40,7 @@ i.link-color:focus {
 .btn-color:hover,
 .btn-color:active,
 .btn-color:focus {
-  background-color: #b14706 !important;
+  background-color: #861205 !important;
 }
 
 .btn-border-color,
@@ -52,8 +52,8 @@ a.btn-border-color {
 .btn-border-color:hover,
 .btn-border-color:active,
 .btn-border-color:focus {
-  color: #b14706 !important;
-  border-color: #b14706;
+  color: #861205 !important;
+  border-color: #861205;
 }
 
 .input-group .btn {
