@@ -1023,9 +1023,10 @@ textarea.form-control {
 
 .navbar-brand span {
   display: block;
-  background-size: auto 28px;
-  height: 40px;
+  background-size: auto 90px;
+  height: 100px;
   width: 200px;
+  margin-top: -30px;
 }
 
 .navbar-nav > li > a {
